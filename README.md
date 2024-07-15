@@ -24,16 +24,6 @@ This portfolio website serves as a platform to display my work and professional 
 
 ## How to View
 
-You can view the live project here ().
+You can view the live project here (https://elizabeth-dov.github.io/Project_6-my.portfolio/).
 
-## Installation
 
-To run this project locally:
-
-Clone the repository:
-
-git clone https://github.com/elizabeth-dov/project_1.git 
-
-Navigate to the project directory:
- 
-cd project_1
